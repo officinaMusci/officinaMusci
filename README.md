@@ -19,6 +19,7 @@ In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://botteg
             height="40"
         />
     </a>
+    &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -27,6 +28,7 @@ In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://botteg
             height="40"
         />
     </a>
+    &nbsp;
     <a href="https://www.w3schools.com/js/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -35,6 +37,7 @@ In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://botteg
             height="40"
         />
     </a>
+    &nbsp;
     <a href="https://www.npmjs.com/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
@@ -43,6 +46,7 @@ In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://botteg
             height="40"
         />
     </a>
+    &nbsp;
     <a href="https://angular.io/" target="_blank">
         <img
             src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -51,6 +55,7 @@ In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://botteg
             height="40"
         />
     </a>
+    &nbsp;
     <a href="https://reactjs.org/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -59,6 +64,7 @@ In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://botteg
             height="40"
         />
     </a>
+    &nbsp;
     <a href="https://www.python.org/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -67,6 +73,7 @@ In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://botteg
             height="40"
         />
     </a>
+    &nbsp;
     <a href="https://flask.palletsprojects.com/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"
@@ -75,6 +82,7 @@ In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://botteg
             height="40"
         />
     </a>
+    &nbsp;
     <a href="https://code.visualstudio.com/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
@@ -83,6 +91,7 @@ In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://botteg
             height="40"
         />
     </a>
+    &nbsp;
     <a href="https://git-scm.com/" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
