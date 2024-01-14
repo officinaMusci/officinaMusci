@@ -101,36 +101,3 @@ In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://botteg
         />
     </a>
 </p>
-
----
-
-<img
-    src="https://s.gravatar.com/avatar/8d3467443a35ad5f75f43e4f1612c838?s=150"
-    align="right"
-    alt="Officina Musci logo"
-    width="75px"
-    height="75px"
-/>
-
-
-
-
-
-
-
-
-
-<!--
-**officinaMusci/officinaMusci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
