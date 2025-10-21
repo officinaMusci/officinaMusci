@@ -6,8 +6,6 @@ I am employed at the [Pedagogical IT Center for Compulsory Teaching](https://cip
 
 **Officina Musci**, which translates to "Musci's workshop" in Italian, serves as my personal GitHub space where I showcase my projects and contribute to others.
 
-In parallel, I also oversee an Etsy shop called **[Bottega Musci](https://bottegamusci.etsy.com)**, which is Italian for "Musci's craft shop." Here, I offer my creations for sale.
-
 #### Languages and Tools
 
 <p>
